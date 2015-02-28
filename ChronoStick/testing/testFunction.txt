@@ -1,0 +1,2 @@
+def render(lol,wat,troll):
+    print(lol,wat,troll)
